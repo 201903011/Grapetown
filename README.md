@@ -13,3 +13,4 @@ To run
 Note React-native environment is neccessary to run this app
 
 react native environment setup for windows 10   https://youtu.be/F7xdbsjFGtU
+ 
